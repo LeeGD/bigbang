@@ -1,0 +1,42 @@
+#main{
+	width: 600px;
+	height: 1000px;
+	background-color: #f2f2f2;
+	margin:  0 auto;
+	padding-top: 16px;
+}
+#main-shipin{
+		margin:  0 auto;
+		text-align: center;
+		
+}
+#main-wenzi{
+	padding-top: 20px;
+	text-align: center;
+}
+#main-wenzi span{
+	width: 280px;
+	font-size: 16px;
+	color: #999999;
+
+}
+#main-wenzi p{
+	padding-top: 20px;
+	padding: 0,50px;
+	font-size: 13px;
+	color: black;
+}
+#mian-01{
+	width: 264px;
+	padding-top: 20px;
+	font-size: 14px;
+	color: #999999;
+	text-align: center;
+}
+#main-02{
+		padding-bottom: 20px;
+		text-align: center;
+}	
+body{
+	background-color: #f2f2f2;
+}

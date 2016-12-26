@@ -1,0 +1,38 @@
+#main{
+	height: 1000px;
+	background-color: #f2f2f2;
+	margin:  0 auto;
+	padding-top: 16px;
+}
+#main-01{
+		margin:  0 auto;
+		text-align: center;
+}
+#main-wenzi{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+#main-wenzi p{
+	padding: 20px;
+	width: 600px;
+	font-size: 12px;
+	color: #999999;
+	border-top: 1px solid #dfdfdf;
+	border-bottom: 1px solid #dfdfdf;
+	margin: 0 auto;
+	text-indent: 2em;
+}
+#main-02{
+		margin:0 auto;
+		text-align: center;
+}
+#main-03{
+	padding: 20px;
+	width: 640px;
+	margin:0 auto;
+	text-align: left;
+}
+#main-03>div{
+	float: left;
+	padding: 16px;
+}
